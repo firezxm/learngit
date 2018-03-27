@@ -1,0 +1,12 @@
+
+
+1.window 双击安装 Git-2.15.1.2-64-bit.exe。
+
+2.配置
+$ git config --global user.name "firezxm"
+$ git config --global user.email "firezxm@yeah.net"
+
+创建版本库
+  1.手工创建目录:   D:\0133_git
+  2. $ cd /d/0133_git  (注意D盘的表示方法/d/)
+  3. $ git init
