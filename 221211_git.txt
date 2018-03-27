@@ -6,7 +6,10 @@
 $ git config --global user.name "firezxm"
 $ git config --global user.email "firezxm@yeah.net"
 
-创建版本库
+3.创建版本库
   1.手工创建目录:   D:\0133_git
   2. $ cd /d/0133_git  (注意D盘的表示方法/d/)
   3. $ git init
+
+简单的操作直接看 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743858312764dca7ad6d0754f76aa562e3789478044000
+
